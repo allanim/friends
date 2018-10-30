@@ -1,12 +1,13 @@
 
 
-
-
 ### macOS ###
 # General
 .DS_Store
 .AppleDouble
 .LSOverride
+
+### VS Code ###
+.code
 
 ### Node ###
 # Logs
