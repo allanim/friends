@@ -1,0 +1,40 @@
+{
+  "root" : "./src",
+  "plugins": [
+    "toggle-chapters",
+    "insert-logo-link",
+    "favicon",
+    "back-to-top-button",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "insert-logo-link": {
+      "src": "/img/friends_logo.png",
+      "url": "/"
+    },
+    "favicon":{
+        "shortcut": "/img/favicon.ico",
+        "bookmark": "/img/favicon.ico",
+        "appleTouch": "/img/apple-icon.png",
+        "appleTouchMore": {
+            "120x120": "/img/apple-icon-120x120.png",
+            "180x180": "/img/apple-icon-180x180.png"
+        }
+    },
+    "ga": {
+      "token": "UA-XXXX-Y"
+    }
+  },
+  "links": {
+    "sidebar": {
+        
+    },
+    "sharing": {
+        "google": false,
+        "facebook": false,
+        "twitter": false,
+        "weibo": false,
+        "all": false
+    }
+}
+}

@@ -1,0 +1,7 @@
+.book-summary ul.summary li a.gitbook-link {
+    display: none;
+}
+
+.book .book-summary .book-logo img{
+    width: 250px;
+}
