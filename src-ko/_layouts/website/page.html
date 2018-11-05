@@ -28,6 +28,11 @@
 </script>
 {% endblock %}
 
-{% block body %}
+{% block book_sidebar %}
+{{ super() }}
+{% endblock %}
+
+{% block page %}
+<blockquote><p>Last modified: {{ file.mtime }}</p></blockquote>
 {{ super() }}
 {% endblock %}
