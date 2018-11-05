@@ -1,6 +1,5 @@
 {
-  "root" : "./src",
-  "title" : "Friends Transcripts",
+  "title" : "프렌즈 대본 (영어/한국어)",
   "plugins": [
     "toggle-chapters",
     "insert-logo-link",
@@ -9,7 +8,7 @@
   "pluginsConfig": {
     "insert-logo-link": {
       "src": "https://allanim.github.io/friends/img/friends_logo.png",
-      "url": "https://allanim.github.io/friends/"
+      "url": "https://allanim.github.io/friends/ko/"
     }
   },
   "links": {
