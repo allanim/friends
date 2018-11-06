@@ -1,26 +1,9 @@
 {
-  "title" : "Friends Transcripts",
-  "plugins": [
-    "toggle-chapters",
-    "insert-logo-link",
-    "back-to-top-button"
-  ],
+  "title": "Friends Transcripts",
+  "language": "en",
   "pluginsConfig": {
     "insert-logo-link": {
-      "src": "https://allanim.github.io/friends/img/friends_logo.png",
-      "url": "https://allanim.github.io/friends/"
+      "url": "https://allanim.github.io/friends/en"
     }
-  },
-  "links": {
-    "sidebar": {
-        
-    },
-    "sharing": {
-        "google": false,
-        "facebook": false,
-        "twitter": false,
-        "weibo": false,
-        "all": false
-    }
-}
+  }
 }

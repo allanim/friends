@@ -1,26 +1,9 @@
 {
-  "title" : "フレンズスクリプト「英語・日本語」",
-  "plugins": [
-    "toggle-chapters",
-    "insert-logo-link",
-    "back-to-top-button"
-  ],
+  "title": "フレンズスクリプト「英語・日本語」",
+  "language": "ja",
   "pluginsConfig": {
     "insert-logo-link": {
-      "src": "https://allanim.github.io/friends/img/friends_logo.png",
-      "url": "https://allanim.github.io/friends/ja/"
+      "url": "https://allanim.github.io/friends/ja"
     }
-  },
-  "links": {
-    "sidebar": {
-        
-    },
-    "sharing": {
-        "google": false,
-        "facebook": false,
-        "twitter": false,
-        "weibo": false,
-        "all": false
-    }
-}
+  }
 }

@@ -1,32 +1,36 @@
 {% extends template.self %}
 
 {% block head %}
-<meta http-equiv="content-language" content="ko" />
+<meta http-equiv="content-language" content="{{ config.language }}"/>
 
 <meta name="HandheldFriendly" content="true"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://allanim.github.io/friends/img/apple-icon-152x152.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="https://allanim.github.io/friends/img/android-icon-192x192.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152"
+      href="https://allanim.github.io/friends/img/apple-icon-152x152.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://allanim.github.io/friends/img/android-icon-192x192.png">
 <link rel="shortcut icon" href="https://allanim.github.io/friends/img/favicon.ico" type="image/x-icon">
 <link rel="manifest" href="https://allanim.github.io/friends/img/manifest.json">
-<link rel="alternate" hreflang="en" href="https://allanim.github.io/friends/"/>
+<link rel="alternate" hreflang="en" href="https://allanim.github.io/friends/en/"/>
 <link rel="alternate" hreflang="ja" href="https://allanim.github.io/friends/ja/"/>
-{% endblock %}
-
-{% block javascript %}
-{{ super() }}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85007712-3"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
 
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
     gtag('config', 'UA-85007712-3');
 </script>
+{% endblock %}
+
+{% block javascript %}
+{{ super() }}
 {% endblock %}
 
 {% block book_sidebar %}

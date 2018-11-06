@@ -1,26 +1,9 @@
 {
-  "title" : "프렌즈 대본 (영어/한국어)",
-  "plugins": [
-    "toggle-chapters",
-    "insert-logo-link",
-    "back-to-top-button"
-  ],
+  "title": "프렌즈 대본 (영어/한국어)",
+  "language": "ko",
   "pluginsConfig": {
     "insert-logo-link": {
-      "src": "https://allanim.github.io/friends/img/friends_logo.png",
-      "url": "https://allanim.github.io/friends/ko/"
+      "url": "https://allanim.github.io/friends/ko"
     }
-  },
-  "links": {
-    "sidebar": {
-        
-    },
-    "sharing": {
-        "google": false,
-        "facebook": false,
-        "twitter": false,
-        "weibo": false,
-        "all": false
-    }
-}
+  }
 }
