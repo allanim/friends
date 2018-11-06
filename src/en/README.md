@@ -2,9 +2,9 @@
 
 These transcripts are available as [HTML](https://en.wikipedia.org/wiki/HTML), [PDF](https://en.wikipedia.org/wiki/PDF), [EPUB](https://en.wikipedia.org/wiki/EPUB) and [MOBI](https://en.wikipedia.org/wiki/Mobipocket).
 
-If you have to _a Korean version_, please click [**HERE**](ko),
+If you have to _a Korean version_, please click [**HERE**](ko/index.html), 
 
-If you have to _a Japanese version_, please click [**HERE**](ja).
+If you have to _a Japanese version_, please click [**HERE**](ja/index.html).
 
 ---
 
