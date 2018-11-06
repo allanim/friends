@@ -1,32 +1,36 @@
 # 소개
 
-본 대본은 HTML, PDF, EPUB, MOBI 형식으로 제공 됩니다.
+본 대본은 [HTML](https://ko.wikipedia.org/wiki/HTML), [PDF](https://ko.wikipedia.org/wiki/PDF), [EPUB](https://ko.wikipedia.org/wiki/EPUB), [MOBI](https://ko.wikipedia.org/wiki/Mobi) 형식으로 제공 됩니다.
 
-영어 공부를 위해 작성 되어 졌으며 오류가 있을 수 있습니다.
+영어 공부를 위해 작성 되어 있기 때문에, 다른 자막이나, 더빙과는 다른 부분이 있습니다.
 
 영상은 넷플렉스 기준이며 Uncut버전은 다른 대본을 참조 하세요.
 
-본 대본은 영어와 한국어로 구성되어 있습니다. 영어만 필요 하실 경우 [이곳](..)에서 보시면 됩니다.
+본 대본은 영어와 한국어로 구성되어 있습니다. 영어만 필요 하실 경우 [이곳](..)을 참조하세요.
 
-- SEASON 1
-    - [HTML](./season1/index.md)
-- SEASON 2
+**※ 모든 자료는 인터넷에서 공개 되어 있는 자료입니다, 한국어 번역의 경우 작성자를 알 수 없어 기록 하지 않았습니다.**
+
+---
+
+- 시즌 1.
+    - [HTML](season1/index.md)
+- 시즌 2.
     - Coming soon!
-- SEASON 3
+- 시즌 3.
     - Coming soon!
-- SEASON 4
+- 시즌 4.
     - Coming soon!
-- SEASON 5
+- 시즌 5.
     - Coming soon!
-- SEASON 6
+- 시즌 6.
     - Coming soon!
-- SEASON 7
+- 시즌 7.
     - Coming soon!
-- SEASON 8
+- 시즌 8.
     - Coming soon!
-- SEASON 9
+- 시즌 9.
     - Coming soon!
-- SEASON 10
+- 시즌 10.
     - Coming soon!
 
 [s01-pdf]: https://allanim.github.io/friends/ko/download/friends-ko-s01.pdf

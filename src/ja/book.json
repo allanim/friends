@@ -1,6 +1,5 @@
 {
-  "root" : "./src",
-  "title" : "Friends Transcripts",
+  "title" : "フレンズスクリプト「英語・日本語」",
   "plugins": [
     "toggle-chapters",
     "insert-logo-link",
@@ -9,7 +8,7 @@
   "pluginsConfig": {
     "insert-logo-link": {
       "src": "https://allanim.github.io/friends/img/friends_logo.png",
-      "url": "https://allanim.github.io/friends/"
+      "url": "https://allanim.github.io/friends/ja/"
     }
   },
   "links": {

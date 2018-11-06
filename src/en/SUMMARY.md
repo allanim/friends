@@ -2,7 +2,7 @@
 
 - [About](README.md)
 
-* [SEASON1](season1/index.md)
+* [SEASON 1](season1/index.md)
   - [101 Monica Gets A Roommate](season1/0101.md)
   - [102 The Sonogram At The End](season1/0102.md)
   - [103 The Thumb](season1/0103.md)
@@ -28,7 +28,7 @@
   - [123 The Birth](season1/0123.md)
   - [124 Rachel Finds Out](season1/0124.md)
 
-<!-- - [SEASON2](season2/index.md)
+<!-- - [SEASON 2](season2/index.md)
   - [201 Ross's New Girlfriend](season2/0201.md)
   - [202 The Breast Milk](season2/0202.md)
   - [203 Heckles Dies](season2/0203.md)
