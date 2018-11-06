@@ -2,8 +2,5 @@
   "title": "프렌즈 대본 (영어/한국어)",
   "language": "ko",
   "pluginsConfig": {
-    "insert-logo-link": {
-      "url": "https://allanim.github.io/friends/ko"
-    }
   }
 }

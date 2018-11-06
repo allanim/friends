@@ -2,8 +2,5 @@
   "title": "フレンズスクリプト「英語・日本語」",
   "language": "ja",
   "pluginsConfig": {
-    "insert-logo-link": {
-      "url": "https://allanim.github.io/friends/ja"
-    }
   }
 }

@@ -3,11 +3,15 @@
   "plugins": [
     "toggle-chapters",
     "insert-logo",
-    "back-to-top-button"
+    "back-to-top-button",
+    "sitemap-general"
   ],
   "pluginsConfig": {
     "insert-logo": {
       "url": "https://allanim.github.io/friends/img/friends_logo.png"
+    },
+    "sitemap-general": {
+      "prefix": "https://allanim.github.io/friends/"
     }
   },
   "links": {
@@ -15,8 +19,8 @@
     },
     "sharing": {
         "google": false,
-        "facebook": false,
-        "twitter": false,
+        "facebook": true,
+        "twitter": true,
         "weibo": false,
         "all": false
     }

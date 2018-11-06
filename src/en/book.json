@@ -2,8 +2,5 @@
   "title": "Friends Transcripts",
   "language": "en",
   "pluginsConfig": {
-    "insert-logo-link": {
-      "url": "https://allanim.github.io/friends/en"
-    }
   }
 }
